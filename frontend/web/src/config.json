@@ -1,0 +1,5 @@
+{
+  "network": "https://sepolia.drpc.org",
+  "contractAddress": "0x3973b72684B2C6f4049a387dEcBB519DFDD8DD56",
+  "deployer": "0x30b86C50539ba98F61fED07cD368092Aca6f3C07"
+}
